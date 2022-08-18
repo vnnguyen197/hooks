@@ -1,0 +1,23 @@
+/* .App {
+  display: flex;
+  justify-content: center;
+} */
+.dark{
+  color: black;
+  background-color: #ffff;
+}
+.light{
+  color: #ffff;
+  background-color: black;
+}
+button{
+  margin: 10px;
+  height: 30px;
+  color: blue;
+  font-weight: bold;
+}
+button:hover{
+  background-color: blue;
+  color: #ffff;
+  cursor: pointer;
+}
